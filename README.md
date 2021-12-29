@@ -17,7 +17,7 @@
 |Feb. 2021 - May 2021|Undergraduate Researcher at *Chungnam National University*|
 |Jun. 2021|Participate in **Korea Computer Congress 2021**|
 |Sep. 2021 - Dec. 2021|Software Engineering Project "<a href = "https://github.com/h5jam/Re-clothes" target = "blank" >Re-clothes</a>"
-|Jan. 2022 - Feb. 2022|Purdue University|
+|Jan. 2022 - Feb. 2022|Junior Capstone Design Project at *Purdue University*|
 
 ## Currently interested in..
 <img src="https://img.shields.io/badge/iOS-gray?style=flat-roundsquare&logo=iOS&logoColor=white"/></a>
