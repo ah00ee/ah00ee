@@ -1,5 +1,7 @@
 # 👋 Hi! I'm Ah-Young Nho. 
+### Currently participating IITP Winter Program at Purdue.
 
+<br></br>
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-0054FF?style=flat-roundsquare&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-gold?style=flat-roundsquare&logo=JavaScript&logoColor=white"/>
@@ -23,6 +25,7 @@
 
 ## Currently interested in..
 <img src="https://img.shields.io/badge/iOS-gray?style=flat-roundsquare&logo=iOS&logoColor=white"/></a>
+- Computer Vision
 
 ## Contact me
-E-mail: nhoahyoung@gmail.com
+E-mail: ah00ee.kr@gmail.com
