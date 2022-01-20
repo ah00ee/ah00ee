@@ -3,11 +3,12 @@
 
 <br></br>
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-0054FF?style=flat-roundsquare&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-gold?style=flat-roundsquare&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-blue?style=flat-roundsquare&logo=SQLite&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-orange?style=flat-roundsquare&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-red?style=flat-roundsquare&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/Swift-white?logo=Swift&logoColor=orange"/>
+<img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=orange"/></a>
+<img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=gold"/>
+<img src="https://img.shields.io/badge/SQLite-blue?logo=SQLite&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white"/>
 
 ## Tools
 <img src="https://img.shields.io/badge/Xcode-black?style=flat-roundsquare&logo=Xcode&logoColor=white"/></a>
