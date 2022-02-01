@@ -1,7 +1,10 @@
 # 👋 Hi! I'm Ah-Young Nho. 
 ### Currently participating IITP Winter Program at Purdue.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ah00ee)](https://github.com/ah00ee)
 <br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah00ee&layout=compact)](https://github.com/ah00ee)
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/Swift-white?logo=Swift&logoColor=orange"/>
