@@ -26,6 +26,8 @@
 |Jun. 2021|Participate in **Korea Computer Congress 2021**||<a href = "https://github.com/ah00ee/DNLab_work" target = "blank">Deep Web Availability</a>|
 |Sep. 2021 - Dec. 2021|Software Engineering Project||<a href = "https://github.com/h5jam/Re-clothes" target = "blank">Re-clothes</a>|
 |Jan. 2022 - Feb. 2022|Junior Capstone Design Project|*Purdue University*||
+|Mar. 2022 - ||Chungnam National University||
+|Mar. 2022 - ||Distributed Learning and Computing Lab (*CNU*)||
 
 ## Currently interested in..
 <img src="https://img.shields.io/badge/iOS-gray?style=flat-roundsquare&logo=iOS&logoColor=white"/></a>
