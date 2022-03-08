@@ -1,37 +1,27 @@
+<div align="center">
+  
 # 👋 Hi! I'm Ah-Young Nho. 
-### Currently participating IITP Winter Program at Purdue.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ah00ee&label=Profile%20views&color=d84dff&style=flat-square" alt="ah00ee" /> </p>
 
+🌱 I’m currently learning **Pytorch**.
+
+📫 How to reach me **ah00ee.kr@gmail.com**
+
+📄 Know about my experiences **[ah00ee.github.io](ah00ee.github.io)**
+
+<h3 align="center">⚡ Tech Stack ⚡</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  </p>
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ah00ee)](https://github.com/ah00ee)
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah00ee&layout=compact)](https://github.com/ah00ee)
 
-## Tech Stack
-<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"/></a>
-<img src="https://img.shields.io/badge/Swift-white?logo=Swift&logoColor=orange"/>
-<img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=orange"/></a>
-<img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=gold"/>
-<img src="https://img.shields.io/badge/SQLite-blue?logo=SQLite&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white"/>
-
-## Tools
-<img src="https://img.shields.io/badge/Xcode-black?style=flat-roundsquare&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-roundsquare&logo=Visual Studio Code&logoColor=white"/>
-
-## EXPERIENCE
-|Date|Content|-|Repo|
-|--|-----|---|---|
-|Mar. 2019 - |Undergraduate Student|Chungnam National University||
-|Oct. 2020 - |Algorithm Study and Solve Club|AnA||
-|Feb. 2021 - May 2021|Undergraduate Researcher|Data Network Lab (*CNU*)||
-|Jun. 2021|Participate in **Korea Computer Congress 2021**||<a href = "https://github.com/ah00ee/DNLab_work" target = "blank">Deep Web Availability</a>|
-|Sep. 2021 - Dec. 2021|Software Engineering Project||<a href = "https://github.com/h5jam/Re-clothes" target = "blank">Re-clothes</a>|
-|Jan. 2022 - Feb. 2022|Junior Capstone Design Project|*Purdue University*||
-|Mar. 2022 - ||Chungnam National University||
-|Mar. 2022 - ||Distributed Learning and Computing Lab (*CNU*)||
-
-## Currently interested in..
-<img src="https://img.shields.io/badge/iOS-gray?style=flat-roundsquare&logo=iOS&logoColor=white"/></a>
-- Deep learning
-
-## Contact me
-E-mail: ah00ee.kr@gmail.com
+</div>
