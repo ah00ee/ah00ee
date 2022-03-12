@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi! I'm Ah-Young Nho. 
+# 👋 Hi! I'm Ah-Young. 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ah00ee&label=Profile%20views&color=d84dff&style=flat-square" alt="ah00ee" /> </p>
 
 🌱 I’m currently learning **Pytorch**.
