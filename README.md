@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi! I'm Ah-Young. 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ah00ee&label=Profile%20views&color=d84dff&style=flat-square" alt="ah00ee" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fah00ee&count_bg=%23D71BFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning **Pytorch**.
 
