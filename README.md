@@ -3,7 +3,7 @@
 # 👋 Hi! I'm Ah-Young. 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fah00ee&count_bg=%23D71BFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-🌱 My interest is **Docker** and **Federated Learning**. I love learning new things! 🌱
+🌱 My interests are **iOS**, **Federated Learning**. I love learning new things! 🌱
   
 📫 How to reach me **ah00ee.kr@gmail.com**
 
