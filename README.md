@@ -2,8 +2,11 @@
 - NanoCellect Biomedical, Inc.
   - Software Engineer Intern (*09/2022 - 06/2023*)
   - San Diego, CA
+- Data Network Lab, CNU
+  - Undergraduate Research Intern (*02/2021 - 05/2021*)
+  - Daejeon, South Korea
 
-### Projects
+### My Project...
 - <a href="https://github.com/ah00ee/python-league/">python-league</a>
 
 ### My interest...
