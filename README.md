@@ -1,11 +1,10 @@
-
-  
-# Hi, I'm Colleen 👋
-
-### My experience...
+### Work experience...
 - NanoCellect Biomedical, Inc.
   - Software Engineer Intern (*09/2022 - 06/2023*)
   - San Diego, CA
+
+### Projects
+- <a href="https://github.com/ah00ee/python-league/">python-league</a>
 
 ### My interest...
 - Backend Development(Django, FastAPI, Flask)
