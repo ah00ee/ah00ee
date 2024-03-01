@@ -1,4 +1,7 @@
 ### Work experience...
+- MedInTech Inc.
+  - System Software Engineer (*01/2024 - present)
+  - Seoul, South Korea
 - NanoCellect Biomedical, Inc.
   - Software Engineer Intern (*09/2022 - 06/2023*)
   - San Diego, CA
